@@ -7,3 +7,7 @@ This is a template for creating a [Spigot Plugin](https://www.spigotmc.org/) wit
 3. Rename group in **build.gradle.kts**
 4. Rename project name in **settings.gradle.kts**
 5. Rename main class in **src/main/resources/plugin.yml**
+
+### Acknowledgment
+1. Original [author](https://github.com/NyCodeGHG)
+2. Original [repo](https://github.com/NyCodeGHG/paper-gradle-kotlin-template)
